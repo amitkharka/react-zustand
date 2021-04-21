@@ -28,5 +28,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### tutorial
+### zustand [https://www.npmjs.com/package/zustand]
+
+### Tutorial
 [youtube](https://www.youtube.com/watch?v=jLcF0Az1nx8)
